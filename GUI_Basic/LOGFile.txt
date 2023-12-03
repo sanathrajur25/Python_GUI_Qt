@@ -1,0 +1,8 @@
+Selected Image :IMG0080.bmp
+//Start time ://2023-12-03 15:33:14.416680
+Top Coordinate:909,448
+Bottom Coordinate:(949,1275)
+Left Coordinate:505,862
+Right Coordinate:1339,862
+Total time taken H:0 M:0 S:0 uS:147125
+Diameter: 54.9128 mm , Radius: 27.4564 mmInternal Diameter: 47.476 mm , Internal Radius: 23.738 mm

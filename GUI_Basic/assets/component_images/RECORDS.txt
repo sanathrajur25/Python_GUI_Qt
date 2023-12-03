@@ -1,0 +1,21 @@
+refernce img0080 dia = 55.4 mm 
+Calculate pixel accuracy=?
+pixel accuracy = ?
+
+834 pixels= 55.4mm
+1 px = x mm 
+
+x= 55.4/ 834 (ans in mm)
+
+multiply this new value of x with the number of pixels u get in another image to get actual legth
+
+
+fov= pa*tot len pa*tot width
+working distance= 172mm
+
+--------------------------------------------------------
+solution :
+--------------------------------------------------------
+pixel accuracy= 0.0664
+FOV = 172.10,129.08 (l,b)
+working distance=172mm
